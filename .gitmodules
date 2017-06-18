@@ -1,0 +1,9 @@
+[submodule "trace-edit"]
+	path = trace-edit
+	url = https:/github.com/MichaelTong/trace-edit.git
+[submodule "ttrais-kit"]
+	path = ttrais-kit
+	url = https:/github.com/MichaelTong/ttrais-kit.git
+[submodule "ttrais"]
+	path = ttrais
+	url = https:/github.com/MichaelTong/ttrais.git
